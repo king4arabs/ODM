@@ -12,7 +12,7 @@ Please use the format below to report bugs and faults.
 
 [Type answer here]
 
-### What is the problem?
+### What is the problem? 
 
 [Type answer here]
 
